@@ -1,0 +1,1 @@
+Jogo simples de speed runner onde o objetivo e simplesmente coletar todas as almas de fogos, onde wolf possa se reencontrar com sua paz de espirito novamente, tem um sistema de pontuação e aguns desafios e você toma hit kill casa bata em alguma coisa ou não consiga virar o cenario na hora certa
